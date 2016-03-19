@@ -1,0 +1,15 @@
+# Site settings
+title: Evandro Ribeiro
+email: ribeiroevandro.developer@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Eu sou um desenvolvedor web brasileiro com uma paixão para os padrões web e coisas extravagantes, 
+  constantemente aprendendo com a própria web e tento contribuir com coisas legais.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ribeiroevandro.com.br" # the base hostname & protocol for your site
+twitter_username: ribeiroevandro
+github_username:  ribeiroevandro
+facebook_username:  ribeiroevandro
+gplus_username:  EvandroRibeiroB
+
+# Build settings
+markdown: kramdown
